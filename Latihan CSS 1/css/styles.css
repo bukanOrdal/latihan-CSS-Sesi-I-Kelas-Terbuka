@@ -1,0 +1,25 @@
+:root {
+  --bg: #ffffff;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: var(--bg);
+  color: #070707;
+}
+
+h2 {
+  color: rgb(245, 143, 10);
+}
+
+.tanggal {
+  color: rgb(10, 121, 44);
+}
+
+p span {
+  color: red;
+}
+
+.data_isi {
+  color: purple;
+}
